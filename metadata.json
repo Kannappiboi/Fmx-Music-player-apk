@@ -1,0 +1,6 @@
+{
+  "name": "Resonance",
+  "description": "Minimalist, bit-perfect high-resolution audio player supporting DSD, FLAC, ALAC, and spatial surround formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
